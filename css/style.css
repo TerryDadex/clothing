@@ -494,4 +494,9 @@ section {
         .home {
             height: 85vh;
         }
+         .new-content.two row img {
+             width: auto;
+             height: auto;
+         }
+             
     }
