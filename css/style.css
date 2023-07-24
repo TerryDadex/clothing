@@ -494,7 +494,7 @@ section {
         .home {
             height: 85vh;
         }
-         .new-content.two row img {
+         .new-content row img {
              width: auto;
              height: auto;
          }
