@@ -478,6 +478,10 @@ section {
         top: 100%;
     }
 
+   .new-content row {
+        margin-left: 50px;
+    }
+
 }
 
    @media (max-width: 640px) {
