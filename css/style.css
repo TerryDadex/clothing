@@ -478,7 +478,9 @@ section {
         top: 100%;
     }
 
-    @media (max-width: 920px) {
+}
+
+   @media (max-width: 640px) {
         :root {
             --big-font: 5rem;
             --h2-font:2rem;
@@ -493,4 +495,3 @@ section {
             height: 85vh;
         }
     }
-}
